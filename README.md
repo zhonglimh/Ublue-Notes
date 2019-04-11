@@ -5,7 +5,7 @@
 
 ## 前端手记 - 布局
 
-  * [CSS Grid Layout 手记](/Layout/CSS-Grid-Layout-手记.md)
+  * [CSS Grid Layout 手记（教程指南）](/Layout/CSS-Grid-Layout-手记（教程指南）.md)
 
 ## 前端手记 - VUE
   * [Vue CLI 3 文档（1）：安装和项目创建](/Vue/Vue-CLI-3-文档（1）：安装和项目创建.md)
